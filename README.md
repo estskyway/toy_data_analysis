@@ -52,7 +52,7 @@ Large Lymphocyte
 
 -- 수술 관련 -- 7-8개
 Location of herniation (탈출부위): 디스크 탈출이 어느 부위에 발생했는지가 수술의 복잡성 및 회복 기간에 영향을 줄 수 있습니다.
-ODI (Oswestry Disability Index): ODI 점수가 높을수록 통증 및 기능 장애 정도가 높아져 회복이 느려질 수 있어 입원 기간에 영향을 줄 수 있습니다.
+
 
 수술 기법 
 통증정도
